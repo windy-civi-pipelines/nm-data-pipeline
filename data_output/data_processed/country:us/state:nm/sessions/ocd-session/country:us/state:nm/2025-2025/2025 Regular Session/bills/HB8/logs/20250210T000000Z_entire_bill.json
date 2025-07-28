@@ -1,0 +1,309 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB8",
+  "title": "CRIMINAL COMPETENCY & TREATMENT",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "COURTS (judges, DAs, public defenders)",
+    "CRIMES & PENALTIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to House Judiciary Committee",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "passed House",
+      "date": "2025-02-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO NOT PASS, replaced with committee substitute",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House concurred in Senate amendments",
+      "date": "2025-02-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to Senate Judiciary Committee",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS, as amended, committee report adopted",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "floor substitute adopted (2 amendment)",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chandler, Christine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chandler, Christine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garratt, Joy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Garratt, Joy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Borrego, Cynthia",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Borrego, Cynthia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cates, Kathleen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cates, Kathleen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Little, Charlotte",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Little, Charlotte\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JC substitute",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JCS.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendments in Context",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/Amendments_In_Context/HB0008.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/final/HB0008.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Senate Floor Amendment 1",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS1.HTML",
+          "media_type": ""
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS1.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Amendment 2",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS2.HTML",
+          "media_type": ""
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS2.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Amendment 3",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS3.HTML",
+          "media_type": ""
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008FS3.PDF",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JC committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JU committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JU1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0008JU1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/firs/HB0008.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LESC Analysis",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/LESCAnalysis/HB0008.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=8&year=25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "scraped_at": "2025-07-28T18:17:25+00:00",
+  "_id": "1c40a2a0-6bdf-11f0-96d7-3e1447614032"
+}

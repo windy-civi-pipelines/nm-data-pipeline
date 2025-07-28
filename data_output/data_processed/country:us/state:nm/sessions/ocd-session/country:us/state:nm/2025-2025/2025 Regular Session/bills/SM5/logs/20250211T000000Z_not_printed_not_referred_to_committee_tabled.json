@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "not printed, not referred to committee, tabled",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SM5"
+}

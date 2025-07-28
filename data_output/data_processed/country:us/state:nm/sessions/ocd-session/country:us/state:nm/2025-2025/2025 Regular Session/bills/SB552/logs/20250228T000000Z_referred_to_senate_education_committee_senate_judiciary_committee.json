@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to Senate Education Committee & Senate Judiciary Committee",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB552"
+}

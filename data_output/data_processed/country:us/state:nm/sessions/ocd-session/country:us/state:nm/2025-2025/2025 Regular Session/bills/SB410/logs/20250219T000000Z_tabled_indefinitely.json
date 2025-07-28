@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "tabled indefinitely",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB410"
+}

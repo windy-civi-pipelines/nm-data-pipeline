@@ -1,0 +1,166 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HJM2",
+  "title": "COMBINE STANDING & INTERIM COMMITTEES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint memorial"
+  ],
+  "subject": [
+    "LEGISLATURE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to House Government, Elections and Indian Affairs Committee",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "passed House",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to Senate Rules Committee",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "action postponed indefinitely",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Herrera, Susan K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Herrera, Susan K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "De La Cruz, Art",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"De La Cruz, Art\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, D. Wonda",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson, D. Wonda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Szczepanski, Reena",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Szczepanski, Reena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hamblen, Carrie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hamblen, Carrie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/memorials/house/HJM002.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/memorials/house/HJM002.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "GE committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/memorials/house/HJM002GE1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/memorials/house/HJM002GE1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/firs/HJM002.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=JM&legNo=2&year=25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "scraped_at": "2025-07-28T18:17:25+00:00",
+  "_id": "1c42ec90-6bdf-11f0-96d7-3e1447614032"
+}

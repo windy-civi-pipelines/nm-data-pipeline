@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB273",
+  "title": "VETERAN TRANSITIONAL HOUSING",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "MILITARY AFFAIRS (national guard, vets)",
+    "PROPERTY (conservancy districts, land grants, real estate)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to Senate Indian, Rural and Cultural Affairs Committee & Senate Finance Committee",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "action postponed indefinitely",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stefanics, Elizabeth \"Liz\"",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stefanics, Elizabeth \\\"Liz\\\"\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sari\u00f1ana, Debra M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sari\\u00f1ana, Debra M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharer, William E.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sharer, William E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thornton, Anthony L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thornton, Anthony L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Block, Jay C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Block, Jay C.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0273.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0273.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "IC committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0273IC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0273IC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/firs/SB0273.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=273&year=25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "scraped_at": "2025-07-28T18:17:23+00:00",
+  "_id": "1b0c6e32-6bdf-11f0-96d7-3e1447614032"
+}

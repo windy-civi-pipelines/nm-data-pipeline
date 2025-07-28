@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to Senate Rules Committee & Senate Indian, Rural and Cultural Affairs Committee",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJM2"
+}

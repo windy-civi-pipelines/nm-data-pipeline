@@ -1,0 +1,165 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB76",
+  "title": "CONGENITAL HEART DISEASE TESTS FOR INFANTS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CHILDREN & FAMILIES",
+    "HEALTH & HEALTH FACILITIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to House Pre-file",
+      "date": "2025-01-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to House Health & Human Services Committee & House Consumer & Public Affairs Committee",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO NOT PASS, replaced with committee substitute",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "action postponed indefinitely",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomson, Elizabeth \"Liz\"",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomson, Elizabeth \\\"Liz\\\"\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CP substitute",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076CPS.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076CPS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CP committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076CP1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076CP1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HC committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076HC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0076HC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/firs/HB0076.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=76&year=25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "scraped_at": "2025-07-28T18:17:25+00:00",
+  "_id": "1c3fb502-6bdf-11f0-96d7-3e1447614032"
+}

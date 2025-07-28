@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veto Override Passed House",
+    "date": "2025-03-22",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB65"
+}

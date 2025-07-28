@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "DO NOT PASS, replaced with committee substitute",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB444"
+}

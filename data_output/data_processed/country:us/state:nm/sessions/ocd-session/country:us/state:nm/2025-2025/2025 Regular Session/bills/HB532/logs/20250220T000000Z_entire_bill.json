@@ -1,0 +1,219 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB532",
+  "title": "STUDENT WATER SAFETY GUIDANCE",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EDUCATION, PUBLIC SCHOOLS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to House Consumer & Public Affairs Committee & House Education Committee",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "passed House",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to Senate Education Committee",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanchez, Joseph",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanchez, Joseph\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/final/HB0532.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CP committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532CP1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532CP1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "EC committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532EC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532EC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "ED committee report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532ED1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0532ED1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/firs/HB0532.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LESC Analysis",
+      "links": [
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/LESCAnalysis/HB0532 LESC.PDF",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://www.nmlegis.gov/Sessions/25%20Regular/LESCAnalysis/HB0532.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=532&year=25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "scraped_at": "2025-07-28T18:17:25+00:00",
+  "_id": "1c45030e-6bdf-11f0-96d7-3e1447614032"
+}

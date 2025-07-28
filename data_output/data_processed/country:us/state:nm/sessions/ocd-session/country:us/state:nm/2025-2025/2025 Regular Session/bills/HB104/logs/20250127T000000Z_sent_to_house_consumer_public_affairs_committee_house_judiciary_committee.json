@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to House Consumer & Public Affairs Committee & House Judiciary Committee",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB104"
+}

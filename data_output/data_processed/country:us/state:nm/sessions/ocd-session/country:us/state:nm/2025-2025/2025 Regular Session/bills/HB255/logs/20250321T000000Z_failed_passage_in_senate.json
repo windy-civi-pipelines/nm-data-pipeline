@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "failed passage in Senate",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB255"
+}

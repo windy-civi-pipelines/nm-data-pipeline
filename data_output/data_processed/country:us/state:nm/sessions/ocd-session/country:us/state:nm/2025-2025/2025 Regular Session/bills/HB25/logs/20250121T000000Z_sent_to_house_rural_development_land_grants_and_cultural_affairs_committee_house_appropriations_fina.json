@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to House Rural Development, Land Grants and Cultural Affairs Committee & House Appropriations & Finance Committee",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB25"
+}

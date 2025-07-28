@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to Senate Tax, Business and Transportation Committee & Senate Finance Committee",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB534"
+}

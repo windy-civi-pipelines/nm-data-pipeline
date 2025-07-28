@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "action postponed indefinitely",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB459"
+}

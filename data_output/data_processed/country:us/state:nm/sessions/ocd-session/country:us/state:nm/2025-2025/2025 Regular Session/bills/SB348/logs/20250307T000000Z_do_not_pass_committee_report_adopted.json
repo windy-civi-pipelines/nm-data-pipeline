@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "DO NOT PASS committee report adopted",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB348"
+}

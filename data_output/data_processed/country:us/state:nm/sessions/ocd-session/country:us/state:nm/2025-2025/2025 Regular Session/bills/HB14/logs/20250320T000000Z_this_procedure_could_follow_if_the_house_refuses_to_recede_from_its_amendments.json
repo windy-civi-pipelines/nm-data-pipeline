@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "this procedure could follow if the House refuses to recede from its amendments",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB14"
+}

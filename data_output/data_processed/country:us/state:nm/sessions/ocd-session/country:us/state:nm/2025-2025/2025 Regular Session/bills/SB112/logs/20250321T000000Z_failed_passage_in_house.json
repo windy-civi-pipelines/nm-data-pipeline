@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "failed passage in House",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB112"
+}

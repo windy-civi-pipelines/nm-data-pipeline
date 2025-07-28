@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "not printed House Rules and Order of Business Committee",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB601"
+}

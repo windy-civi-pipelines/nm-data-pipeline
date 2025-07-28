@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to House Health & Human Services Committee & House Judiciary Committee",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB303"
+}

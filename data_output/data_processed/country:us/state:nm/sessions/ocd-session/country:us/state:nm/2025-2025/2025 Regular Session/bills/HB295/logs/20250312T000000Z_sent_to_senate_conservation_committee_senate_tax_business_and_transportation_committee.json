@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to Senate Conservation Committee & Senate Tax, Business and Transportation Committee",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB295"
+}

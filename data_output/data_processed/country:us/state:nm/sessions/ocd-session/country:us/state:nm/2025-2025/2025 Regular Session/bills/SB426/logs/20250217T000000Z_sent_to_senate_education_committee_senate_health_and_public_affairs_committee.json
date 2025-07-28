@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to Senate Education Committee & Senate Health and Public Affairs Committee",
+    "date": "2025-02-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB426"
+}

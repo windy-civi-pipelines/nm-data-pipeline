@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "senate has receded its amendments",
+    "date": "2025-03-22",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB167"
+}

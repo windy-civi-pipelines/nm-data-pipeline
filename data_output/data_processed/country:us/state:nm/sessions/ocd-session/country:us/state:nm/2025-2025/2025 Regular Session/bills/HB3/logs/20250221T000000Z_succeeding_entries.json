@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Succeeding entries",
+    "date": "2025-02-21",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3"
+}

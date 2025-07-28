@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Pocket Veto",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB183"
+}

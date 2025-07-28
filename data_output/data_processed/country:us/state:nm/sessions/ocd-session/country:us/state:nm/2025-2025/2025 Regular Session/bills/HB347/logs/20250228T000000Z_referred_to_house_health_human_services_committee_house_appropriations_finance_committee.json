@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "referred to House Health & Human Services Committee & House Appropriations & Finance Committee",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB347"
+}

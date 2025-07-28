@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to House Pre-file",
+    "date": "2025-01-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB129"
+}

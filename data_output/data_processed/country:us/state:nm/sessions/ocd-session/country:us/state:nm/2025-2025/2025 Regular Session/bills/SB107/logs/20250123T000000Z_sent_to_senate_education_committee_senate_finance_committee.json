@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to Senate Education Committee & Senate Finance Committee",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB107"
+}
