@@ -1,0 +1,16 @@
+Title: SB0002
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB0002 SENATE BILL 2 57th legislature - STATE OF NEW MEXICO - first special session, 2025 INTRODUCED BY Katy M. Duhigg and Christine Chandler and Michelle Paulene Abeyta and Pamelya Herndon AN ACT RELATING TO CRIMINAL COMPETENCY; PROVIDING FOR A METROPOLITAN COURT TO RETAIN JURISDICTION OF A CASE IN WHICH THE QUESTION OF A DEFENDANT'S COMPETENCY IS RAISED UNLESS THE METROPOLITAN COURT DETERMINES THAT THE DEFENDANT IS NOT COMPETENT TO STAND TRIAL; DECLARING AN EMERGENCY. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 31-9-1 NMSA 1978 (being Laws 1988, Chapter 107, Section 1 and Laws 1988, Chapter 108, Section 1, as amended) is amended to read: "31-9-1. DETERMINATION OF COMPETENCY--RAISING THE ISSUE.-- A. When a party or the court raises a question as to a defendant's competency to stand trial in a criminal case, the proceeding shall be suspended until the issue is determined. B. Unless the case is dismissed upon motion of a party or through diversion, if the question of a defendant's competency is raised in a court other than a district court or metropolitan court, the case shall be transferred to the district court; provided that if the question of a defendant's competency is raised in a metropolitan court and the court determines that the defendant is not competent to stand trial, the case shall be transferred to the district court." SECTION 2. EMERGENCY.--It is necessary for the public peace, health and safety that this act take effect immediately. - 2 -
+
+
+================================================================================
+
+Raw Text:
+SB0002 SENATE BILL 2 57th legislature - STATE OF NEW MEXICO - first special session, 2025 INTRODUCED BY Katy M. Duhigg and Christine Chandler and Michelle Paulene Abeyta and Pamelya Herndon AN ACT RELATING TO CRIMINAL COMPETENCY; PROVIDING FOR A METROPOLITAN COURT TO RETAIN JURISDICTION OF A CASE IN WHICH THE QUESTION OF A DEFENDANT'S COMPETENCY IS RAISED UNLESS THE METROPOLITAN COURT DETERMINES THAT THE DEFENDANT IS NOT COMPETENT TO STAND TRIAL; DECLARING AN EMERGENCY. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 31-9-1 NMSA 1978 (being Laws 1988, Chapter 107, Section 1 and Laws 1988, Chapter 108, Section 1, as amended) is amended to read: "31-9-1. DETERMINATION OF COMPETENCY--RAISING THE ISSUE.-- A. When a party or the court raises a question as to a defendant's competency to stand trial in a criminal case, the proceeding shall be suspended until the issue is determined. B. Unless the case is dismissed upon motion of a party or through diversion, if the question of a defendant's competency is raised in a court other than a district court or metropolitan court, the case shall be transferred to the district court; provided that if the question of a defendant's competency is raised in a metropolitan court and the court determines that the defendant is not competent to stand trial, the case shall be transferred to the district court." SECTION 2. EMERGENCY.--It is necessary for the public peace, health and safety that this act take effect immediately. - 2 -
