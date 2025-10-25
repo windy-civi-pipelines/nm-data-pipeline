@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to Senate Finance Committee",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1"
+}

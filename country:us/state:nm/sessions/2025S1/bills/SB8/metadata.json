@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "SB8",
+  "title": "MEDICAL MALPRACTICE CHANGES",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH & HEALTH FACILITIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to Senate Committees' Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thornton, Anthony L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thornton, Anthony L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Block, Jay C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Block, Jay C.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanchez, Joshua A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanchez, Joshua A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brantley, Crystal",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brantley, Crystal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gallegos, David M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gallegos, David M.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0008.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0008.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=8&year=25s",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:59:04Z"
+  }
+}

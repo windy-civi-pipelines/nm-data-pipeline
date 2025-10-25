@@ -1,0 +1,250 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "SB1",
+  "title": "HEALTH CARE GRANTS & STABILIZATION",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FINANCE, PUBLIC",
+    "HEALTH & HEALTH FACILITIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Signed",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Signed",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Finance Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS, as amended, committee report adopted",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to House Health & Human Services Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stefanics, Elizabeth \"Liz\"",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stefanics, Elizabeth \\\"Liz\\\"\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Woods, Pat",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Woods, Pat\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomson, Elizabeth \"Liz\"",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomson, Elizabeth \\\"Liz\\\"\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gonzales, Anita",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gonzales, Anita\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendments in Context",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/Amendments_In_Context/SB0001.pdf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/final/SB0001.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "FC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001FC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001FC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001HC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0001HC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/firs/SB0001.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=1&year=25S1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:59:04Z"
+  }
+}

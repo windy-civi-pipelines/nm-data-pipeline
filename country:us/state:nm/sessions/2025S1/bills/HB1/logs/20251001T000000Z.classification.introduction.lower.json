@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Sent to House Appropriations & Finance Committee",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1"
+}

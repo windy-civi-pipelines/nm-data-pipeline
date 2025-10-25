@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "DO PASS committee report adopted",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB3"
+}

@@ -1,0 +1,245 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "SB3",
+  "title": "IMMUNIZATION RULES & RECOMMENDATIONS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH & HEALTH FACILITIES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Signed",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Health and Public Affairs Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to House Health & Human Services Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L\u00f3pez, Linda M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L\\u00f3pez, Linda M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nava, Cindy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nava, Cindy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hochman-Vigil, Dayan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hochman-Vigil, Dayan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garratt, Joy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Garratt, Joy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Serrato, Linda",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Serrato, Linda\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/final/SB0003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "HC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003HC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003HC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003PA1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/senate/SB0003PA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/firs/SB0003.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LESC Analysis",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/LESCAnalysis/SB0003.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=3&year=25s",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:59:04Z"
+  }
+}

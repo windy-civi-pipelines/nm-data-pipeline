@@ -1,0 +1,232 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "HB1",
+  "title": "GENERAL APPROPRIATIONS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "COURTS (judges, DAs, public defenders)",
+    "FINANCE, PUBLIC",
+    "LEGISLATURE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sent to House Appropriations & Finance Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Signed",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Finance Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Small, Nathan P.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Small, Nathan P.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon, Meredith A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dixon, Meredith A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Silva, Sarah",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Silva, Sarah\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mu\u00f1oz, George K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mu\\u00f1oz, George K.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/final/HB0001 clean.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/final/HB0001.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AF committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001AF1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001AF1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001FC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0001FC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/firs/HB0001.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=1&year=25S1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:59:04Z"
+  }
+}

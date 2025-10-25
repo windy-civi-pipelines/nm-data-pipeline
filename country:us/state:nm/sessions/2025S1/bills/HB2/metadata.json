@@ -1,0 +1,232 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "HB2",
+  "title": "HEALTH CARE COVERAGE CHANGES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Signed",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed Senate",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to House Health & Human Services Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Health and Public Affairs Committee",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:59:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Szczepanski, Reena",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Szczepanski, Reena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Little, Charlotte",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Little, Charlotte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthews, Marian",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Matthews, Marian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hamblen, Carrie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hamblen, Carrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berghmans, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berghmans, Heather\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/final/HB0002.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "HC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002HC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002HC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002PA1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/bills/house/HB0002PA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/25 Special/firs/HB0002.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=2&year=25s",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:59:04Z"
+  }
+}
