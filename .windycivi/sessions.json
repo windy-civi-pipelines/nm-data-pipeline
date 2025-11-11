@@ -102,5 +102,9 @@
   "2025S1": {
     "name": "2025 First Special Session",
     "date_folder": "2025-2025"
+  },
+  "2025S2": {
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
   }
 }
